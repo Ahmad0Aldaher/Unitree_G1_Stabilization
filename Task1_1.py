@@ -279,7 +279,7 @@ for vertex in support_polygon_points:
 
 print(f"Is CoM inside the support polygon? {'Yes' if is_com_inside else 'No'}")
 
-input("\n Press Enter to close MeshCat and terminate... ")
+# input("\n Press Enter to close MeshCat and terminate... ")
 
 
 
