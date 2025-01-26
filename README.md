@@ -3,6 +3,11 @@ This Git repository provides a Python script using the Pinocchio library and the
 
 #### Dependencies
 
+To install all requirements you can run
+
+```
+pip install -r requirements.txt
+```
 
 * [meshcat](https://github.com/meshcat-dev/meshcat-python) >= 0.0.8
 * [Pinocchio](https://github.com/stack-of-tasks/pinocchio)>=3.3.1 
