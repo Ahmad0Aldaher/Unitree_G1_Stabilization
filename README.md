@@ -32,4 +32,4 @@ This part focuses on calculating the contact forces and joint torques for the ro
 ![alt text](figs/sim.gif) 
 
 ## Task 1.3 
-Method for finding stable configuration, closest to the given.
+Method for finding stable configuration, closest to the given. [Check here](https://github.com/Ahmad0Aldaher/Unitree_G1_Stabilization/blob/main/Task1_3.pdf).
